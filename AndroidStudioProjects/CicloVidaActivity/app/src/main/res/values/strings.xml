@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CicloVidaActivity</string>
+    <string name="title_activity_segunda">SegundaActivity</string>
+    <string name="proximo">Próximo</string>
+    <string name="titulo">Teste Ciclo de Vida do Android!</string>
+    <string name="textview">TextView</string>
+    <string name="button2">Button</string>
+</resources>
